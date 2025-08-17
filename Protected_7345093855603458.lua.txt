@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/024662d77ba14c23"))()
+script_key "ZfasRUaaYnIwYBbgUZHOEggwxRjNdHON"
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/4dbb2d85598fee2fb1f51777431d04ee.lua"))()
